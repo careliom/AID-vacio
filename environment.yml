@@ -1,0 +1,12 @@
+name: regresionLineal
+ - conda-forge
+ - defaults
+ 
+dependencies:
+ - jupyterlab
+ - python
+ - numpy
+ - scipy
+ - matplotlib
+ - pandas
+ - scikit-learn
